@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project outputprefix="sudoku">
+
+	<!--  Project description -->
+	<name>Hra Sudoku</name>
+	<author>Petr Stehlik</author>
+	<authoremail>xstehl14@stud.fit.vutbr.cz</authoremail>
+	<revision>1.21</revision>
+	<description>Hra sudoku vyuzivajici MCU i FPGA</description>
+
+	<!--  MCU part -->
+	<mcu>
+		<include>mcu/libs/thermometer/package.xml</include>
+	    <file>main.c</file>
+	</mcu>
+
+	<!-- FPGA part -->
+	<fpga architecture="pc">
+		<include>fpga/ctrls/vga/package.xml</include>
+        <include>fpga/ctrls/keyboard/package.xml</include>
+
+	    <file>top.vhd</file>
+	    <file>tex.vhd</file>
+	    <file>mask.vhd</file>
+	    <!--file>base.vhd</file-->
+	    <!--file>rand.vhd</file-->
+	</fpga>
+
+</project>

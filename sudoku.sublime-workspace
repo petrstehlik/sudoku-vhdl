@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"term_",
+				"term_send_char"
+			],
+			[
+				"term",
+				"term_send_crlf"
+			],
+			[
+				"sig",
+				"sigl	signal std_logic"
+			],
+			[
+				"KE",
+				"KEY"
+			],
+			[
+				"in",
+				"in_mask"
+			],
+			[
+				"show",
+				"show_me"
+			],
+			[
+				"t",
+				"t_state"
+			],
+			[
+				"CH",
+				"CHECKRAND"
+			],
+			[
+				"rad",
+				"rand_en"
+			],
+			[
+				"rand",
+				"rand_number"
+			],
+			[
+				"en",
+				"ent	entity"
+			],
+			[
+				"si",
+				"sigl	signal std_logic"
+			],
+			[
+				"ran",
+				"rand_en"
+			],
+			[
+				"tp",
+				"tmp_index"
+			],
+			[
+				"sigl",
+				"siglv	signal std_logic_vector downto"
+			],
+			[
+				"std",
+				"std_logic"
+			],
+			[
+				"bram",
+				"bram_we"
+			],
+			[
+				"font",
+				"font_bram_addr"
+			],
+			[
+				"fon",
+				"font_bram_dout"
+			],
+			[
+				"spi",
+				"spi_bram_write_en"
+			],
+			[
+				"sil",
+				"siglv	signal std_logic_vector downto"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"mask",
+				"mask_cnt"
+			],
+			[
+				"sg",
+				"siglv	signal std_logic_vector downto"
+			],
+			[
+				"ter",
+				"term_send_crlf"
+			],
+			[
+				"st",
+				"std_logic"
+			],
+			[
+				"out",
+				"out_mask"
+			],
+			[
+				"tmp",
+				"tmpmask"
+			],
+			[
+				"gri",
+				"grid_numbers"
+			],
+			[
+				"kb",
+				"kbrd_data_out"
+			],
+			[
+				"ch",
+				"changeval"
+			],
+			[
+				"ar",
+				"arraypos"
+			],
+			[
+				"array",
+				"arraypos"
+			],
+			[
+				"gr",
+				"gridRow"
+			],
+			[
+				"grid",
+				"gridRowtmp"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"ma",
+				"max_gen"
+			],
+			[
+				"fo",
+				"forg	for generate"
+			],
+			[
+				"swap",
+				"swapVertical"
+			],
+			[
+				"swa",
+				"swapWith"
+			],
+			[
+				"temr_se",
+				"term_send_num"
+			],
+			[
+				"cha",
+				"changedpos"
+			],
+			[
+				"c",
+				"changeval"
+			],
+			[
+				"g",
+				"gridCol"
+			],
+			[
+				"then",
+				"then"
+			],
+			[
+				"tex_",
+				"tex_addr"
+			],
+			[
+				"te",
+				"tex_addr"
+			],
+			[
+				"tx",
+				"tex_data"
+			],
+			[
+				"gen",
+				"gen_1mhz"
+			],
+			[
+				"rom",
+				"rom_numbers"
+			],
+			[
+				"sl",
+				"slv	std_logic_vector downto"
+			],
+			[
+				"e",
+				"ent	entity"
+			],
+			[
+				"vga",
+				"vgaCol"
+			],
+			[
+				"cn",
+				"cnt_rst"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"els",
+				"elsif	elsif"
+			],
+			[
+				"be",
+				"behavior_1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/FITkit project.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/FITkit project.sublime-build",
+					""
+				],
+				[
+					"Packages/User/FITkit project.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/FITkit project.sublime-build",
+					"Load"
+				],
+				[
+					"Packages/User/FITkit project.sublime-build",
+					"Simulate (ModelSIM)"
+				],
+				[
+					"Packages/User/FITkit project.sublime-build",
+					"Simulate (ISIM)"
+				],
+				[
+					"Packages/User/FITkit project.sublime-build",
+					"Open in ISE"
+				],
+				[
+					"Packages/User/FITkit project.sublime-build",
+					"FCMake"
+				],
+				[
+					"Packages/User/FITkit project.sublime-build",
+					"FKTerm"
+				]
+			],
+			[
+				"Packages/User/FITkit project.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/c/FitkitSVN/apps/games/sudoku",
+		"/c/FitkitSVN/apps/games/sudoku/build/fpga",
+		"/c/FitkitSVN/apps/games/sudoku/build/mcu",
+		"/c/FitkitSVN/apps/games/sudoku/fpga",
+		"/c/FitkitSVN/apps/games/sudoku/mcu"
+	],
+	"file_history":
+	[
+		"/c/FitkitSVN/apps/games/sudoku/fpga/top.vhd",
+		"/C/FitkitSVN/apps/games/pexeso/fpga/game_ctl.vhd",
+		"/C/FitkitSVN/apps/demo/counter/fpga/top_level.vhd",
+		"/c/FitkitSVN/apps/games/sudoku/fpga/rand.vhd",
+		"/c/FitkitSVN/apps/games/sudoku/fpga/mask.vhd",
+		"/c/FitkitSVN/apps/games/sudoku/mcu/main.c",
+		"/c/FitkitSVN/apps/games/sudoku/project.xml",
+		"/C/FitkitSVN/apps/games/sudoku/fpga/base.vhd",
+		"/C/FitkitSVN/apps/games/sudoku/fpga/kbrd.vhd",
+		"/C/FitkitSVN/apps/games/pexeso/fpga/random.vhd",
+		"/C/FitkitSVN/apps/games/pexeso/fpga/symbol_decoder.vhd",
+		"/C/FitkitSVN/apps/proj/inp2/fpga/ram.vhd",
+		"/C/FitkitSVN/apps/games/sudoku/fpga/bram.vhd",
+		"/C/FitkitSVN/apps/proj/inp2/fpga/cpu.vhd",
+		"/c/FitkitSVN/apps/games/sudoku/fpga/tex.vhd",
+		"/c/FitkitSVN/apps/games/sudoku/build/fpga/test.par.par",
+		"/C/FitkitSVN/apps/demo/counter/fpga/counter.vhd",
+		"/C/FitkitSVN/apps/proj/inp2/fpga/top.vhd",
+		"/C/FitkitSVN/apps/vga/dram/fpga/top_level.vhd",
+		"/C/FitkitSVN/apps/ivh15/vga.anim4/fpga/top.vhd",
+		"/C/FitkitSVN/apps/ivh15/hodiny/fpga/top.vhd",
+		"/C/FitkitSVN/apps/games/pexeso/fpga/symbol_ram.vhd",
+		"/C/FitkitSVN/apps/demo/bram/fpga/top_level.vhd",
+		"/C/FitkitSVN/apps/games/sudoku/fpga/rand.vhd",
+		"/C/FitkitSVN/apps/games/snake/fpga/snake_top.vhd",
+		"/C/FitkitSVN/apps/games/pexeso/fpga/pexeso_top.vhd",
+		"/C/FitkitSVN/apps/games/pexeso/mcu/main.c",
+		"/C/FitkitSVN/apps/demo/bram/mcu/main.c",
+		"/C/FitkitSVN/apps/demo/keyboard_lcd/mcu/main.c",
+		"/C/FitkitSVN/apps/demo/keyboard/mcu/main.c",
+		"/C/FitkitSVN/apps/demo/keyboard_lcd/fpga/top_level.vhd",
+		"/C/FitkitSVN/apps/demo/keyboard/fpga/top_level.vhd",
+		"/C/FitkitSVN/apps/vga/textmode/mcu/main.c",
+		"/C/FitkitSVN/apps/vga/textmode/mcu/vga_text.c",
+		"/c/FitkitSVN/apps/games/sudoku/build/fpga/test.par.unroutes",
+		"/C/FitkitSVN/apps/ivh15/hodiny/fpga/fsm.vhd",
+		"/c/FitkitSVN/apps/games/sudoku/fpga/engen.vhd",
+		"/C/FitkitSVN/apps/games/sokoban/mcu/sokoban.c",
+		"/C/FitkitSVN/apps/games/sokoban/mcu/main.c",
+		"/c/FitkitSVN/apps/games/sudoku/build/fpga/test.pcf",
+		"/C/FitkitSVN/apps/demo_msp/thermometer/mcu/main.c",
+		"/C/FitkitSVN/apps/games/ticktacktoe/mcu/main.c",
+		"/C/FitkitSVN/apps/games/ticktacktoe/fpga/vga_game.vhd",
+		"/C/FitkitSVN/apps/games/ticktacktoe/mcu/ticktacktoe.c",
+		"/C/FitkitSVN/apps/vga/video_player/mcu/main.c",
+		"/C/FitkitSVN/mcu/libfitkit/timer_b.c",
+		"/C/FitkitSVN/apps/vga/dram/mcu/main.c",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/main.c",
+		"/C/FitkitSVN/apps/games/sudoku/fpga/tex.vhd",
+		"/C/FitkitSVN/apps/ivh15/hodiny/fpga/divider.vhd",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/7.txt",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/8.txt",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/9.txt",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/6.txt",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/4.txt",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/3.txt",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/5.txt",
+		"/C/Documents and Settings/student/Dokumenty/Dropbox/School/2BIT/Leto/IVH/proj/1.txt",
+		"/c/FitkitSVN/apps/games/sudoku/fpga/array.vhd",
+		"/C/Documents and Settings/student/Plocha/stažený soubor.png",
+		"/C/FitkitSVN/apps/ivh15/vga.anim4/fpga/engen.vhd",
+		"/C/FitkitSVN/apps/games/sudoku/fpga/engen.vhd",
+		"/C/FitkitSVN/apps/games/sudoku/sudoku.sublime-project",
+		"/C/FitkitSVN/apps/ivh15/vga.anim0/fpga/top.vhd",
+		"/C/FitkitSVN/apps/demo/led4/led4.sublime-project",
+		"/c/FitkitSVN/apps/demo/led4/Makefile",
+		"/c/FitkitSVN/apps/demo/led4/fpga/had.vhd",
+		"/C/FitkitSVN/apps/games/sudoku/mcu/main.c",
+		"/C/FitkitSVN/apps/games/sudoku/project.xml",
+		"/c/FitkitSVN/apps/demo/led4/fpga/top.vhd",
+		"/c/FitkitSVN/apps/demo/led4/project.xml",
+		"/C/FitkitSVN/apps/demo/led4/fpga/lfsr.vhd",
+		"/c/FitkitSVN/apps/demo/led4/engen.vhd",
+		"/C/Documents and Settings/student/Local Settings/Temp/Dočasný adresář 2 pro ivh_0204.zip/led4_a/fpga/top.vhd",
+		"/C/Documents and Settings/student/Plocha/lfsr.vhdl"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"crlf",
+			"RESET",
+			"int_ar",
+			"changeval",
+			"mask_array",
+			"mask",
+			"show",
+			"show_mask",
+			"DATA_RDWR",
+			"DATA_RDWR.",
+			"BASE_ADDR",
+			"addr",
+			"bram_addr",
+			"index",
+			"index ",
+			"index",
+			"show2",
+			"RESET",
+			"RST",
+			"RESET",
+			"show",
+			"rand_number",
+			" N",
+			"arr",
+			"000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000\n000000000000",
+			"rom_numbers",
+			"tex_data",
+			"routing",
+			"erro",
+			"blue",
+			"sx",
+			"pressed_key",
+			"changeval",
+			"thermometer_gettemp",
+			"srand",
+			"sran",
+			"thermo",
+			"thermometer",
+			"thermometer_init_rand",
+			"print",
+			"ofs",
+			"N ",
+			"define N",
+			"int i",
+			"30",
+			"1",
+			"gen_1mhz",
+			"RED",
+			"RED_V",
+			"sx",
+			"cur_x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"i",
+			"0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 308.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/FITkit project.sublime-build",
+	"project": "sudoku.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
